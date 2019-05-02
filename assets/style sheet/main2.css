@@ -3,6 +3,10 @@
     text-align: center;
     color: #70540d;
 }
+body{    
+    background-color: #fff7e2;
+}
 p{
     margin-top: 80px;
 }
+nav{ background-color:#ffe4a5!important; }

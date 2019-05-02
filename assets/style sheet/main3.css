@@ -3,7 +3,11 @@
     text-align: center;
     color: #70540d;
 }
+body{    
+    background-color: #fff7e2;
+}
 .end img{
     margin-top: 80px;
     margin-bottom: 70px;
 }
+nav{ background-color:#ffe4a5!important; }

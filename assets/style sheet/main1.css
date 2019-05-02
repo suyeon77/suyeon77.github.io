@@ -1,7 +1,11 @@
 * {
     color: #70540d;
-    /* background-color: #fff7e2; */
+
     text-align: center
+}
+
+body{    
+    background-color: #fff7e2;
 }
 img{
     border-radius: 50%;
@@ -19,3 +23,6 @@ img{
 .copyright p {
     margin-top: 100px;
 }
+.sns-box { width : 300px; display:inline-block; } 
+
+nav{ background-color:#ffe4a5!important; }
